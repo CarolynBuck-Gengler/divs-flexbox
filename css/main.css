@@ -139,6 +139,9 @@ body {
 .wrapper p {
     padding: 10px;
 }
+.movie-name {
+    font-style: italic;
+}
 
 
 
